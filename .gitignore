@@ -1,4 +1,5 @@
 .DS_Store
-/lib
+/lib/lawnchair-*
 /tmp
 /test/lib/lawnchair*
+node_modules/
